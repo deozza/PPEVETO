@@ -10,7 +10,6 @@
     <meta name="author" content="">
 
     <title>Allo-Veto : clinique vétérinaire</title>
-    <title>TEST</title>
 
     <!-- Bootstrap Core CSS - CSS perso-->
 
